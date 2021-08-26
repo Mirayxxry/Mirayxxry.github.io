@@ -1,2 +1,2 @@
-# onokumus.github.io
+# miraysevinc.github.io
 kişisel site
