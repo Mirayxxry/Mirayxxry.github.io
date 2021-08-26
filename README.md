@@ -1,2 +1,2 @@
-# Mirayxxry.github.io
-mysite
+# onokumus.github.io
+kişisel site
